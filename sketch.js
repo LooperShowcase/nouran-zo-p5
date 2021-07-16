@@ -1,6 +1,6 @@
 function setup() {
   // The size of our starting canvas: 400px width, 400px height
-  createCanvas(400, 400);
+  createCanvas(windowWidth, windowHeight);
   angleMode(DEGREES);
 }
 
